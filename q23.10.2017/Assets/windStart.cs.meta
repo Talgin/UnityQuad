@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c66589355ff89540bd879fa5c699f1d
+timeCreated: 1508663599
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Quadrocopter: {fileID: 105470, guid: b3c09ae0a3a894865acda93470148435, type: 2}
+  - Wind: {instanceID: 0}
+  - windSpeed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

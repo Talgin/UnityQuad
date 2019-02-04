@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\quadrocopterScript.cs">
+    <Files>
+      <File FileName="Assets\motorScript.cs" Line="14" Column="1" />
+      <File FileName="Assets\onCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\QuadAI.cs" Line="41" Column="12" />
+      <File FileName="Assets\quadrocopterScript.cs" Line="170" Column="41" />
+      <File FileName="Assets\windStart.cs" Line="10" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
